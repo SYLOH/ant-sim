@@ -1,0 +1,3 @@
+shortest path len: 119
+0 6 5 7 2 9 3 1 4 8 
+
